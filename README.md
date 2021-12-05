@@ -1,9 +1,9 @@
-## Journey in save airplanes
+# Journey in save airplanes
 
-# About Us
+## About Us
 - Wahid Popal Ali Ahmad Popal
 - Fardin Alam
 - GetHub repository: CSCI-2000U-Final-Project-crashed-planes-analysis
 
-# Introduction
+## Introduction
 
